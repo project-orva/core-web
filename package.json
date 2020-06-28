@@ -34,6 +34,10 @@
         "typescript": "^3.7.5"
     },
     "dependencies": {
-        "@babel/runtime": "^7.9.6"
+        "@babel/runtime": "^7.9.6",
+        "apollo-server": "^2.15.0",
+        "axios": "^0.19.2",
+        "dotenv": "^8.2.0",
+        "graphql": "^15.1.0"
     }
 }
